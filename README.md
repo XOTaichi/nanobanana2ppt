@@ -11,8 +11,18 @@
 
 效果示例：
 
-- 原始 nanobanana 页面：[doc/text_org.pdf](/Users/xotaichi/Documents/VibeResearch/banana2ppt/doc/text_org.pdf)
-- 生成并人工微调后的 PPT 效果：[doc/text_ppt.pdf](/Users/xotaichi/Documents/VibeResearch/banana2ppt/doc/text_ppt.pdf)
+原始 nanobanana 页面：
+
+![原始 nanobanana 页面](doc/text_org.png)
+
+生成并人工微调后的 PPT 效果：
+
+![生成并人工微调后的 PPT 效果](doc/text_ppt.png)
+
+PDF 下载：
+
+- [text_org.pdf](doc/text_org.pdf)
+- [text_ppt.pdf](doc/text_ppt.pdf)
 
 2. 同时修改文字和图标
 适合科研绘图、方法图、系统结构图。文字会尽量转成可编辑文本框，icon、箭头、图块会尽量拆成独立图片，便于后续手动拖动和替换。
