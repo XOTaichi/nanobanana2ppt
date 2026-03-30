@@ -24,7 +24,7 @@ from ppt_style_utils import infer_alignment, pick_text_color, pixels_to_inches
 BASE_DIR = Path(__file__).resolve().parent
 
 
-def add_white_text_mask(slide, bbox: list[int], padding_px: int = 3) -> None:
+def add_white_text_mask(slide, bbox: list[int], padding_px: int = 1) -> None:
     x0, y0, x1, y1 = max(0, bbox[0] - padding_px), max(0, bbox[1] - padding_px), max(bbox[0] + 2, bbox[2] + padding_px), max(bbox[1] + 2, bbox[3] + padding_px)
     shape = slide.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(pixels_to_inches(x0)), Inches(pixels_to_inches(y0)), Inches(pixels_to_inches(max(2, x1 - x0))), Inches(pixels_to_inches(max(2, y1 - y0))))
     shape.fill.solid()
