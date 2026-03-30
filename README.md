@@ -9,6 +9,11 @@
 1. 只修改文字
 适合国家课题申报图、技术路线图、流程图这类 container 很多、图标位置要求没那么高，但中文文字必须能改的场景。
 
+效果示例：
+
+- 原始 nanobanana 页面：[doc/text_org.pdf](/Users/xotaichi/Documents/VibeResearch/banana2ppt/doc/text_org.pdf)
+- 生成并人工微调后的 PPT 效果：[doc/text_ppt.pdf](/Users/xotaichi/Documents/VibeResearch/banana2ppt/doc/text_ppt.pdf)
+
 2. 同时修改文字和图标
 适合科研绘图、方法图、系统结构图。文字会尽量转成可编辑文本框，icon、箭头、图块会尽量拆成独立图片，便于后续手动拖动和替换。
 
@@ -44,6 +49,8 @@ API 获取位置：
 安装依赖：
 
 ```bash
+conda create -n banana2ppt_test python=3.11
+conda activate banana2ppt_test
 pip install -r requirements.txt
 ```
 
