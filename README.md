@@ -1,6 +1,6 @@
-# banana2ppt
+# nanobanana2ppt
 
-项目目标：把 banana 生成的科研绘图、技术路线图、流程图页面，转换成“可继续人工编辑”的 PPT。
+项目目标：把 nanobanana 生成的科研绘图、技术路线图、流程图页面，转换成“可继续人工编辑”的 PPT。
 
 ## 适用场景
 
@@ -14,7 +14,12 @@
 
 ## 依赖准备
 
-在 `banana2ppt/` 目录下执行：
+```bash
+git clone https://github.com/XOTaichi/nanobanana2ppt.git
+cd nanobanana
+```
+
+在 `nanobanana2ppt/` 目录下执行：
 
 ```bash
 cp .env.example .env
