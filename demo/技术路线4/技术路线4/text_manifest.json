@@ -1,0 +1,1478 @@
+{
+  "input_image": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4.png",
+  "image_size": {
+    "width": 1384,
+    "height": 752
+  },
+  "elements": [
+    {
+      "id": "text_001",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        432,
+        10,
+        957,
+        45
+      ],
+      "score": 0.9996395111,
+      "text": "全流程隐私防护链条构建(TEE-DP融合)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_001.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_002",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        152,
+        60,
+        428,
+        90
+      ],
+      "score": 0.999866724,
+      "text": "可信隐私计算（计算节点）",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_002.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_003",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        630,
+        60,
+        906,
+        90
+      ],
+      "score": 0.9999279976,
+      "text": "链路状态验证（协作节点）",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_003.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_004",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1016,
+        60,
+        1316,
+        90
+      ],
+      "score": 0.9999593496,
+      "text": "全过程安全审计（审计节点）",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_004.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_005",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        179,
+        105,
+        219,
+        126
+      ],
+      "score": 0.9999658465,
+      "text": "数入",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_005.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_006",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        296,
+        105,
+        337,
+        126
+      ],
+      "score": 0.9998899698,
+      "text": "数据",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_006.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_007",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        830,
+        101,
+        870,
+        122
+      ],
+      "score": 0.9998728037,
+      "text": "验证",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_007.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_008",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        118,
+        140,
+        185,
+        158
+      ],
+      "score": 0.9996318221,
+      "text": "Enclave",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_008.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_009",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        243,
+        142,
+        279,
+        158
+      ],
+      "score": 0.9463065863,
+      "text": "-out",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_009.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_010",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        379,
+        138,
+        517,
+        162
+      ],
+      "score": 0.9987536669,
+      "text": "差分隐私噪户器",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_010.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_011",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        751,
+        102,
+        827,
+        155
+      ],
+      "score": 0.9752799273,
+      "text": "→[",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_011.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_012",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        831,
+        134,
+        870,
+        154
+      ],
+      "score": 0.9998524189,
+      "text": "验证",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_012.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_013",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        170,
+        186,
+        313,
+        213
+      ],
+      "score": 0.9999089837,
+      "text": "主要数据流流",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_013.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_014",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        593,
+        185,
+        807,
+        213
+      ],
+      "score": 0.9998498559,
+      "text": "隐私流转与审计流转",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_014.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_015",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1082,
+        185,
+        1226,
+        213
+      ],
+      "score": 0.9998596311,
+      "text": "数据资制流流",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_015.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_016",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        204,
+        242,
+        518,
+        276
+      ],
+      "score": 0.9997708201,
+      "text": "可信隐私计算(TEE内部)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_016.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_017",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        869,
+        242,
+        1235,
+        276
+      ],
+      "score": 0.9997897148,
+      "text": "链路状态验证（跨节点、跨域）",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_017.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_018",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        198,
+        297,
+        388,
+        324
+      ],
+      "score": 0.9979552031,
+      "text": "TEE可信执行环境",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_018.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_019",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1031,
+        288,
+        1098,
+        314
+      ],
+      "score": 0.9999411702,
+      "text": "节点层",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_019.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_020",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1265,
+        288,
+        1331,
+        313
+      ],
+      "score": 0.9997475743,
+      "text": "策略层",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_020.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_021",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        617,
+        309,
+        683,
+        332
+      ],
+      "score": 0.9967560768,
+      "text": "TEE内",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_021.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_022",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        952,
+        315,
+        1175,
+        339
+      ],
+      "score": 0.9994052052,
+      "text": "(跨节点证明，分布式身份)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_022.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_023",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1249,
+        314,
+        1336,
+        337
+      ],
+      "score": 0.9960113168,
+      "text": "(统一编排，",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_023.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_024",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        266,
+        341,
+        320,
+        363
+      ],
+      "score": 0.9986481071,
+      "text": "Core",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_024.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_025",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        431,
+        344,
+        471,
+        365
+      ],
+      "score": 0.9995320439,
+      "text": "隐私",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_025.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_026",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        609,
+        333,
+        691,
+        356
+      ],
+      "score": 0.9997865558,
+      "text": "动态隐私",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_026.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_027",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        759,
+        336,
+        792,
+        353
+      ],
+      "score": 0.9998905063,
+      "text": "end",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_027.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_028",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1256,
+        337,
+        1339,
+        360
+      ],
+      "score": 0.999866128,
+      "text": "动态控制)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_028.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_029",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        58,
+        363,
+        102,
+        386
+      ],
+      "score": 0.9994829893,
+      "text": "输入",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_029.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_030",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        430,
+        367,
+        470,
+        388
+      ],
+      "score": 0.9999313951,
+      "text": "控制",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_030.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_031",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        518,
+        358,
+        549,
+        378
+      ],
+      "score": 0.9993194342,
+      "text": "DP",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_031.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_032",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        608,
+        356,
+        690,
+        380
+      ],
+      "score": 0.9994984269,
+      "text": "预算调度",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_032.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_033",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        35,
+        387,
+        126,
+        411
+      ],
+      "score": 0.9989933968,
+      "text": "(敏感数据、",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_033.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_034",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        502,
+        381,
+        565,
+        405
+      ],
+      "score": 0.9996070862,
+      "text": "差分隐",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_034.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_035",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1030,
+        372,
+        1097,
+        397
+      ],
+      "score": 0.9994121194,
+      "text": "执行层",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_035.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_036",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1257,
+        369,
+        1338,
+        393
+      ],
+      "score": 0.9999294877,
+      "text": "节点可信",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_036.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_037",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        199,
+        398,
+        237,
+        417
+      ],
+      "score": 0.997972846,
+      "text": "内存",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_037.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_038",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        41,
+        411,
+        121,
+        434
+      ],
+      "score": 0.9994729757,
+      "text": "策略、推",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_038.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_039",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        267,
+        400,
+        312,
+        420
+      ],
+      "score": 0.9986422658,
+      "text": "Core",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_039.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_040",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        342,
+        398,
+        380,
+        418
+      ],
+      "score": 0.9998127222,
+      "text": "远程",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_040.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_041",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        520,
+        404,
+        544,
+        429
+      ],
+      "score": 0.9999017715,
+      "text": "私",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_041.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_042",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1005,
+        398,
+        1112,
+        421
+      ],
+      "score": 0.9494923353,
+      "text": "(可验证摘要，",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_042.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_043",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1127,
+        375,
+        1192,
+        410
+      ],
+      "score": 0.7443197966,
+      "text": "自昆",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_043.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_044",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        199,
+        421,
+        237,
+        441
+      ],
+      "score": 0.9994312525,
+      "text": "隔离",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_044.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_045",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        430,
+        417,
+        470,
+        438
+      ],
+      "score": 0.9998255968,
+      "text": "输出",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_045.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_046",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        47,
+        433,
+        113,
+        457
+      ],
+      "score": 0.9996036291,
+      "text": "理逻辑)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_046.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_047",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        345,
+        424,
+        377,
+        441
+      ],
+      "score": 0.9986169934,
+      "text": "cog",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_047.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_048",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        502,
+        429,
+        565,
+        454
+      ],
+      "score": 0.9998871684,
+      "text": "保护器",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_048.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_049",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        753,
+        421,
+        798,
+        442
+      ],
+      "score": 0.9995989203,
+      "text": "edge",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_049.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_050",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        819,
+        428,
+        871,
+        450
+      ],
+      "score": 0.9986615777,
+      "text": "Verify",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_050.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_051",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        964,
+        420,
+        1162,
+        444
+      ],
+      "score": 0.9991993308,
+      "text": "完整性校验，状态证明)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_051.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_052",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1258,
+        408,
+        1338,
+        433
+      ],
+      "score": 0.9987764359,
+      "text": "策略控制",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_052.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_053",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        198,
+        455,
+        275,
+        477
+      ],
+      "score": 0.9997865558,
+      "text": "远程度量",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_053.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_054",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        305,
+        450,
+        382,
+        473
+      ],
+      "score": 0.9995270967,
+      "text": "关键推理",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_054.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_055",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1258,
+        448,
+        1339,
+        472
+      ],
+      "score": 0.9990993738,
+      "text": "隐私预算",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_055.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_056",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        212,
+        479,
+        267,
+        500
+      ],
+      "score": 0.9990028143,
+      "text": "(scale)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_056.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_057",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        324,
+        474,
+        361,
+        493
+      ],
+      "score": 0.9996912479,
+      "text": "环节",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_057.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_058",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        590,
+        465,
+        682,
+        487
+      ],
+      "score": 0.9995686412,
+      "text": "双尺度DP",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_058.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_059",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1030,
+        477,
+        1097,
+        503
+      ],
+      "score": 0.9999682903,
+      "text": "协作层",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_059.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_060",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1258,
+        488,
+        1338,
+        511
+      ],
+      "score": 0.9986045361,
+      "text": "风险等级",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_060.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_061",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        87,
+        506,
+        168,
+        530
+      ],
+      "score": 0.9983438253,
+      "text": "策略控制",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_061.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_062",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        437,
+        509,
+        710,
+        534
+      ],
+      "score": 0.9998830557,
+      "text": "内部可信计算→外部受控发布",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_062.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_063",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        759,
+        505,
+        792,
+        521
+      ],
+      "score": 0.9997802377,
+      "text": "end",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_063.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_064",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        863,
+        503,
+        911,
+        522
+      ],
+      "score": 0.9995387793,
+      "text": "cloud",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_064.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_065",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        934,
+        503,
+        1194,
+        526
+      ],
+      "score": 0.9994514585,
+      "text": "(最小必要暴露，受控特征交换)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_065.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_066",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        80,
+        563,
+        120,
+        585
+      ],
+      "score": 0.9996352196,
+      "text": "策略",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_066.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_067",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        182,
+        562,
+        303,
+        586
+      ],
+      "score": 0.999873817,
+      "text": "隐私控制逻辑",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_067.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_068",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        499,
+        561,
+        888,
+        594
+      ],
+      "score": 0.9998769164,
+      "text": "全过程安全审计（数据流转追溯）",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_068.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_069",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        378,
+        608,
+        406,
+        638
+      ],
+      "score": 0.863422513,
+      "text": "了",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_069.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_070",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        410,
+        608,
+        712,
+        634
+      ],
+      "score": 0.9998462796,
+      "text": "关键事件筛选（高风险，关键决策）",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_070.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_071",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        969,
+        610,
+        1109,
+        638
+      ],
+      "score": 0.9999224544,
+      "text": "多维审计模型",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_071.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_072",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1234,
+        613,
+        1355,
+        637
+      ],
+      "score": 0.9999417663,
+      "text": "异常事件复盘",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_072.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_073",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        73,
+        647,
+        114,
+        668
+      ],
+      "score": 0.8277592659,
+      "text": "(甲)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_073.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_074",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        888,
+        653,
+        990,
+        678
+      ],
+      "score": 0.9998256564,
+      "text": "权限一致性",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_074.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_075",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1009,
+        653,
+        1090,
+        678
+      ],
+      "score": 0.9972686768,
+      "text": "预算消耗",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_075.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_076",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1109,
+        652,
+        1190,
+        677
+      ],
+      "score": 0.9999085665,
+      "text": "节点状态",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_076.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_077",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        348,
+        679,
+        389,
+        701
+      ],
+      "score": 0.999956429,
+      "text": "处理",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_077.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_078",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        52,
+        693,
+        133,
+        717
+      ],
+      "score": 0.9996368885,
+      "text": "数据采集",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_078.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_079",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        212,
+        694,
+        252,
+        716
+      ],
+      "score": 0.99949646,
+      "text": "传输",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_079.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_080",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        345,
+        704,
+        392,
+        727
+      ],
+      "score": 0.9989076853,
+      "text": "(TEE)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_080.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_081",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        484,
+        694,
+        525,
+        716
+      ],
+      "score": 0.9996455908,
+      "text": "共享",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_081.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_082",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        619,
+        694,
+        659,
+        716
+      ],
+      "score": 0.9993274212,
+      "text": "输出",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_082.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_083",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        756,
+        695,
+        797,
+        716
+      ],
+      "score": 0.9991707802,
+      "text": "追溯",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_083.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_084",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        890,
+        695,
+        991,
+        719
+      ],
+      "score": 0.9999374151,
+      "text": "调用合规性",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_084.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_085",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1021,
+        695,
+        1121,
+        719
+      ],
+      "score": 0.999871552,
+      "text": "输出安全性",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_085.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_086",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1254,
+        692,
+        1335,
+        716
+      ],
+      "score": 0.9997162819,
+      "text": "策略优化",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/crops/text_086.png",
+      "nobg_path": null,
+      "metadata": {}
+    }
+  ],
+  "counts": {
+    "text": 86,
+    "total": 86
+  },
+  "artifacts": {
+    "pptx": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/技术路线4/技术路线4/text_only_editable.pptx"
+  }
+}

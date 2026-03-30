@@ -1,0 +1,1908 @@
+{
+  "input_image": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana.png",
+  "image_size": {
+    "width": 1396,
+    "height": 752
+  },
+  "sam_prompts": [
+    "icon",
+    "arrow",
+    "diagram"
+  ],
+  "elements": [
+    {
+      "id": "visual_001",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        169,
+        365,
+        247,
+        400
+      ],
+      "score": 0.921875,
+      "text": null,
+      "prompt": "arrow",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_001.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 13
+      }
+    },
+    {
+      "id": "visual_002",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        170,
+        151,
+        247,
+        328
+      ],
+      "score": 0.9140625,
+      "text": null,
+      "prompt": "arrow",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_002.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 12
+      }
+    },
+    {
+      "id": "visual_003",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        170,
+        438,
+        247,
+        585
+      ],
+      "score": 0.9140625,
+      "text": null,
+      "prompt": "arrow",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_003.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 10
+      }
+    },
+    {
+      "id": "visual_004",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        595,
+        365,
+        649,
+        400
+      ],
+      "score": 0.91015625,
+      "text": null,
+      "prompt": "arrow",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_004.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 4
+      }
+    },
+    {
+      "id": "visual_005",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        1138,
+        278,
+        1171,
+        319
+      ],
+      "score": 0.91015625,
+      "text": null,
+      "prompt": "arrow",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_005.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 11
+      }
+    },
+    {
+      "id": "visual_006",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        1119,
+        550,
+        1153,
+        590
+      ],
+      "score": 0.90234375,
+      "text": null,
+      "prompt": "arrow",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_006.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 3
+      }
+    },
+    {
+      "id": "visual_007",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        1266,
+        157,
+        1300,
+        179
+      ],
+      "score": 0.8984375,
+      "text": null,
+      "prompt": "arrow",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_007.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 1
+      }
+    },
+    {
+      "id": "visual_008",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        719,
+        366,
+        764,
+        399
+      ],
+      "score": 0.890625,
+      "text": null,
+      "prompt": "arrow",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_008.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 14
+      }
+    },
+    {
+      "id": "visual_009",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        1016,
+        157,
+        1051,
+        179
+      ],
+      "score": 0.890625,
+      "text": null,
+      "prompt": "arrow",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_009.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 17
+      }
+    },
+    {
+      "id": "visual_010",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        1047,
+        424,
+        1081,
+        446
+      ],
+      "score": 0.8828125,
+      "text": null,
+      "prompt": "arrow",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_010.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 16
+      }
+    },
+    {
+      "id": "visual_011",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        1144,
+        157,
+        1177,
+        178
+      ],
+      "score": 0.8828125,
+      "text": null,
+      "prompt": "arrow",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_011.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 5
+      }
+    },
+    {
+      "id": "visual_012",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        679,
+        416,
+        764,
+        604
+      ],
+      "score": 0.85546875,
+      "text": null,
+      "prompt": "arrow",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_012.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 9
+      }
+    },
+    {
+      "id": "visual_013",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        679,
+        152,
+        763,
+        348
+      ],
+      "score": 0.84765625,
+      "text": null,
+      "prompt": "arrow",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_013.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 15
+      }
+    },
+    {
+      "id": "visual_014",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        1154,
+        398,
+        1178,
+        434
+      ],
+      "score": 0.83984375,
+      "text": null,
+      "prompt": "arrow",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_014.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 8
+      }
+    },
+    {
+      "id": "visual_015",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        771,
+        329,
+        843,
+        423
+      ],
+      "score": 0.83203125,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_015.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 5
+      }
+    },
+    {
+      "id": "visual_016",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        772,
+        543,
+        840,
+        622
+      ],
+      "score": 0.83203125,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_016.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 9
+      }
+    },
+    {
+      "id": "visual_017",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        953,
+        381,
+        1035,
+        477
+      ],
+      "score": 0.82421875,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_017.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 20
+      }
+    },
+    {
+      "id": "visual_018",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        952,
+        133,
+        1009,
+        202
+      ],
+      "score": 0.8046875,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_018.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 31
+      }
+    },
+    {
+      "id": "visual_019",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        1227,
+        378,
+        1264,
+        412
+      ],
+      "score": 0.796875,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_019.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 4
+      }
+    },
+    {
+      "id": "visual_020",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        1308,
+        131,
+        1350,
+        202
+      ],
+      "score": 0.7890625,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_020.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 15
+      }
+    },
+    {
+      "id": "visual_021",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        1228,
+        434,
+        1262,
+        468
+      ],
+      "score": 0.77734375,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_021.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 8
+      }
+    },
+    {
+      "id": "visual_022",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        270,
+        513,
+        334,
+        579
+      ],
+      "score": 0.7734375,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_022.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 19
+      }
+    },
+    {
+      "id": "visual_023",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        97,
+        547,
+        108,
+        576
+      ],
+      "score": 0.76953125,
+      "text": null,
+      "prompt": "arrow",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_023.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 6
+      }
+    },
+    {
+      "id": "visual_024",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        427,
+        514,
+        493,
+        579
+      ],
+      "score": 0.765625,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_024.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 14
+      }
+    },
+    {
+      "id": "visual_025",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        771,
+        120,
+        860,
+        219
+      ],
+      "score": 0.76171875,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_025.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 30
+      }
+    },
+    {
+      "id": "visual_026",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        1228,
+        487,
+        1261,
+        533
+      ],
+      "score": 0.76171875,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_026.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 7
+      }
+    },
+    {
+      "id": "visual_027",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        506,
+        513,
+        571,
+        579
+      ],
+      "score": 0.7578125,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_027.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 28
+      }
+    },
+    {
+      "id": "visual_028",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        361,
+        526,
+        400,
+        566
+      ],
+      "score": 0.7578125,
+      "text": null,
+      "prompt": "arrow",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_028.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 7
+      }
+    },
+    {
+      "id": "visual_029",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        349,
+        513,
+        413,
+        579
+      ],
+      "score": 0.75390625,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_029.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 16
+      }
+    },
+    {
+      "id": "visual_030",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        1187,
+        130,
+        1257,
+        202
+      ],
+      "score": 0.75,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_030.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 1
+      }
+    },
+    {
+      "id": "visual_031",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        1092,
+        377,
+        1177,
+        478
+      ],
+      "score": 0.7109375,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_031.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 18
+      }
+    },
+    {
+      "id": "visual_032",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        1046,
+        583,
+        1165,
+        722
+      ],
+      "score": 0.703125,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_032.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 6
+      }
+    },
+    {
+      "id": "visual_033",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        58,
+        520,
+        148,
+        638
+      ],
+      "score": 0.703125,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_033.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 10
+      }
+    },
+    {
+      "id": "visual_034",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        1060,
+        131,
+        1108,
+        202
+      ],
+      "score": 0.6796875,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_034.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 32
+      }
+    },
+    {
+      "id": "visual_035",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        36,
+        317,
+        173,
+        448
+      ],
+      "score": 0.67578125,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_035.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 26
+      }
+    },
+    {
+      "id": "visual_036",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        58,
+        110,
+        155,
+        207
+      ],
+      "score": 0.671875,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_036.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 29
+      }
+    },
+    {
+      "id": "visual_037",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        652,
+        348,
+        721,
+        416
+      ],
+      "score": 0.65625,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_037.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 27
+      }
+    },
+    {
+      "id": "visual_038",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        818,
+        176,
+        860,
+        220
+      ],
+      "score": 0.6484375,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_038.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 13
+      }
+    },
+    {
+      "id": "visual_039",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        403,
+        227,
+        566,
+        366
+      ],
+      "score": 0.64453125,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_039.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 21
+      }
+    },
+    {
+      "id": "visual_040",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        34,
+        507,
+        179,
+        651
+      ],
+      "score": 0.63671875,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_040.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 11
+      }
+    },
+    {
+      "id": "visual_041",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        263,
+        297,
+        367,
+        402
+      ],
+      "score": 0.62109375,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_041.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 12
+      }
+    },
+    {
+      "id": "visual_042",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        111,
+        386,
+        157,
+        437
+      ],
+      "score": 0.59375,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_042.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 25
+      }
+    },
+    {
+      "id": "visual_043",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        47,
+        328,
+        150,
+        392
+      ],
+      "score": 0.578125,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_043.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 3
+      }
+    },
+    {
+      "id": "visual_044",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        35,
+        91,
+        177,
+        224
+      ],
+      "score": 0.57421875,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_044.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 24
+      }
+    },
+    {
+      "id": "visual_045",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        1122,
+        646,
+        1166,
+        717
+      ],
+      "score": 0.57421875,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_045.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 17
+      }
+    },
+    {
+      "id": "visual_046",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        1093,
+        431,
+        1121,
+        449
+      ],
+      "score": 0.57421875,
+      "text": null,
+      "prompt": "arrow",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_046.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 2
+      }
+    },
+    {
+      "id": "visual_047",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        129,
+        262,
+        152,
+        278
+      ],
+      "score": 0.57421875,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_047.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 23
+      }
+    },
+    {
+      "id": "visual_048",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        59,
+        265,
+        81,
+        273
+      ],
+      "score": 0.57421875,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_048.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 22
+      }
+    },
+    {
+      "id": "visual_049",
+      "element_type": "visual",
+      "source": "sam3",
+      "bbox": [
+        517,
+        525,
+        560,
+        567
+      ],
+      "score": 0.55078125,
+      "text": null,
+      "prompt": "icon",
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/visual_049.png",
+      "nobg_path": null,
+      "metadata": {
+        "raw_index": 2
+      }
+    },
+    {
+      "id": "text_001",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        95,
+        26,
+        813,
+        68
+      ],
+      "score": 0.9990470409,
+      "text": "CBC Framework: Structured Consistency Reasoning",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_001.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_002",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        952,
+        28,
+        1338,
+        65
+      ],
+      "score": 0.999248147,
+      "text": "Two-Stage Training Regimen",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_002.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_003",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        984,
+        84,
+        1309,
+        113
+      ],
+      "score": 0.9899892211,
+      "text": "Stage 1： Cold-Start Supervision",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_003.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_004",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        348,
+        105,
+        495,
+        133
+      ],
+      "score": 0.9997021556,
+      "text": "CBC Module",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_004.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_005",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        309,
+        136,
+        535,
+        164
+      ],
+      "score": 0.9924361706,
+      "text": "(Semantic Projection &",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_005.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_006",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        328,
+        162,
+        515,
+        191
+      ],
+      "score": 0.9989199042,
+      "text": "Consistency Check)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_006.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_007",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        939,
+        207,
+        1022,
+        230
+      ],
+      "score": 0.9995032549,
+      "text": "Synthetic",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_007.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_008",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1064,
+        208,
+        1133,
+        228
+      ],
+      "score": 0.9996637702,
+      "text": "Teacher",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_008.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_009",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1174,
+        207,
+        1267,
+        229
+      ],
+      "score": 0.9996473193,
+      "text": "Supervised",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_009.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_010",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1312,
+        209,
+        1345,
+        226
+      ],
+      "score": 0.9994726181,
+      "text": "CBC",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_010.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_011",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        66,
+        232,
+        139,
+        257
+      ],
+      "score": 0.995552361,
+      "text": "System",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_011.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_012",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        766,
+        227,
+        846,
+        250
+      ],
+      "score": 0.9998426437,
+      "text": "Execute",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_012.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_013",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        961,
+        231,
+        1001,
+        251
+      ],
+      "score": 0.9995977879,
+      "text": "Data",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_013.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_014",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1074,
+        230,
+        1124,
+        250
+      ],
+      "score": 0.9995269775,
+      "text": "Model",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_014.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_015",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1171,
+        230,
+        1270,
+        254
+      ],
+      "score": 0.9997468591,
+      "text": "Fine-Tuning",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_015.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_016",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1303,
+        230,
+        1353,
+        250
+      ],
+      "score": 0.9996699095,
+      "text": "Model",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_016.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_017",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        45,
+        258,
+        158,
+        280
+      ],
+      "score": 0.9999207854,
+      "text": "Instruction",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_017.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_018",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        460,
+        262,
+        508,
+        279
+      ],
+      "score": 0.9997532964,
+      "text": "Action",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_018.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_019",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        738,
+        252,
+        873,
+        275
+      ],
+      "score": 0.9994713068,
+      "text": "(Consistent Task)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_019.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_020",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        923,
+        252,
+        1037,
+        269
+      ],
+      "score": 0.9736214876,
+      "text": "(Seeds+Ijectiens)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_020.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_021",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1045,
+        252,
+        1152,
+        270
+      ],
+      "score": 0.9993696213,
+      "text": "(Reasoning Traces)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_021.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_022",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1204,
+        252,
+        1237,
+        267
+      ],
+      "score": 0.9983292818,
+      "text": "(SFT)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_022.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_023",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1305,
+        252,
+        1350,
+        269
+      ],
+      "score": 0.9979676008,
+      "text": "(Initial)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_023.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_024",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        407,
+        334,
+        479,
+        351
+      ],
+      "score": 0.9996959567,
+      "text": "Constraint",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_024.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_025",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        499,
+        332,
+        553,
+        349
+      ],
+      "score": 0.9999570251,
+      "text": "Domain",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_025.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_026",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        936,
+        325,
+        1356,
+        355
+      ],
+      "score": 0.9957427979,
+      "text": "Stage 2： Dual-Objective Online Alignment",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_026.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_027",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        379,
+        390,
+        589,
+        412
+      ],
+      "score": 0.9997188449,
+      "text": "Semantic Dimensions:",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_027.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_028",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        778,
+        348,
+        836,
+        409
+      ],
+      "score": 0.9999209642,
+      "text": "?",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_028.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_029",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1289,
+        375,
+        1339,
+        392
+      ],
+      "score": 0.9997293353,
+      "text": "Format",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_029.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_030",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1288,
+        395,
+        1340,
+        411
+      ],
+      "score": 0.9994977117,
+      "text": "Reward",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_030.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_031",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        411,
+        415,
+        557,
+        434
+      ],
+      "score": 0.9942577481,
+      "text": "Action, Constraint,",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_031.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_032",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        613,
+        419,
+        662,
+        443
+      ],
+      "score": 0.9982895851,
+      "text": "Policy",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_032.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_033",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        457,
+        436,
+        512,
+        453
+      ],
+      "score": 0.9999182224,
+      "text": "Domain",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_033.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_034",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        597,
+        443,
+        678,
+        461
+      ],
+      "score": 0.9998562932,
+      "text": "Execution",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_034.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_035",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        765,
+        431,
+        847,
+        459
+      ],
+      "score": 0.9999037981,
+      "text": "Degrade",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_035.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_036",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1232,
+        439,
+        1256,
+        462
+      ],
+      "score": 0.9566441774,
+      "text": "×",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_036.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_037",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1264,
+        432,
+        1368,
+        450
+      ],
+      "score": 0.9996523261,
+      "text": "Failure Penalty",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_037.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_038",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        36,
+        455,
+        168,
+        482
+      ],
+      "score": 0.9957659245,
+      "text": "User Request",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_038.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_039",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        742,
+        456,
+        870,
+        477
+      ],
+      "score": 0.999740541,
+      "text": "(Non-executable",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_039.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_040",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1263,
+        451,
+        1369,
+        470
+      ],
+      "score": 0.9991109371,
+      "text": "(Safety Priority)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_040.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_041",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        772,
+        478,
+        840,
+        499
+      ],
+      "score": 0.9995274544,
+      "text": "Context)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_041.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_042",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        923,
+        485,
+        1064,
+        506
+      ],
+      "score": 0.9996141195,
+      "text": "Augmented Data",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_042.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_043",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1082,
+        484,
+        1187,
+        505
+      ],
+      "score": 0.9976799488,
+      "text": "Online GRPO",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_043.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_044",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1274,
+        490,
+        1355,
+        510
+      ],
+      "score": 0.9960988164,
+      "text": "Task Utility",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_044.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_045",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        949,
+        505,
+        1036,
+        525
+      ],
+      "score": 0.9991016388,
+      "text": "(Sub-steps+",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_045.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_046",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1084,
+        506,
+        1183,
+        528
+      ],
+      "score": 0.998798728,
+      "text": "(Optimization)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_046.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_047",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1293,
+        511,
+        1333,
+        526
+      ],
+      "score": 0.9981783032,
+      "text": "Score",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_047.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_048",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        955,
+        525,
+        1032,
+        545
+      ],
+      "score": 0.9993377328,
+      "text": "Injections)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_048.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_049",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        298,
+        596,
+        545,
+        621
+      ],
+      "score": 0.9998195171,
+      "text": "Inconsistency Indicators",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_049.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_050",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        285,
+        621,
+        557,
+        642
+      ],
+      "score": 0.9994277954,
+      "text": "(Action-Constraint,Action-Domain,",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_050.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_051",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        257,
+        641,
+        585,
+        663
+      ],
+      "score": 0.9997452497,
+      "text": "Constraint-Constraint,Domain-Irrelevant)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_051.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_052",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        765,
+        629,
+        839,
+        652
+      ],
+      "score": 0.9998459816,
+      "text": "Discard",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_052.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_053",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1206,
+        635,
+        1309,
+        658
+      ],
+      "score": 0.9966785908,
+      "text": "CBC Model",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_053.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_054",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        34,
+        658,
+        171,
+        682
+      ],
+      "score": 0.9997634888,
+      "text": "External Data",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_054.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_055",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        708,
+        653,
+        894,
+        678
+      ],
+      "score": 0.9993917942,
+      "text": "(Conflicting Objectives)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_055.png",
+      "nobg_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "text_056",
+      "element_type": "text",
+      "source": "baidu_ocr",
+      "bbox": [
+        1176,
+        659,
+        1355,
+        683
+      ],
+      "score": 0.9653244615,
+      "text": "(Robust & High-Utility)",
+      "prompt": null,
+      "crop_path": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/crops/text_056.png",
+      "nobg_path": null,
+      "metadata": {}
+    }
+  ],
+  "counts": {
+    "visual": 49,
+    "text": 56,
+    "total": 105
+  },
+  "artifacts": {
+    "overlay": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/overlay.png",
+    "mask": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/mask.png",
+    "masked_preview": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/masked_preview.png",
+    "restored_background": "/Users/xotaichi/Documents/VibeResearch/image2ppt/demo/demo_banana/demo_banana/restored_background.png"
+  }
+}
